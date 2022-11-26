@@ -37,6 +37,7 @@ Thus the football player rating predictor is a consolidated metric that can be u
 <ul>
   <li>Pyhton(version 2.7+)</li>
   <li>Pandas to load data frame</li>
+  <li>Sci-Kit for ML algorithms</li>
   <li>Power BI for visualization</li>
 </ul>
 <h3>Dataset:</h3>
