@@ -50,3 +50,4 @@ Thus the football player rating predictor is a consolidated metric that can be u
   <li>Player personal data like Nationality, Club, DateOfBirth, Wage, Salary, etc.</li>
 </ul>
 ![Screenshot (540)](https://user-images.githubusercontent.com/76468810/204091099-3fe81ca9-e0bc-4911-8151-b3c9ba536f42.png)
+<img src="https://user-images.githubusercontent.com/76468810/204091099-3fe81ca9-e0bc-4911-8151-b3c9ba536f42.png">
