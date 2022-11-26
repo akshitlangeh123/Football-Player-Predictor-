@@ -49,3 +49,4 @@ Thus the football player rating predictor is a consolidated metric that can be u
   <li>Player attributes with statistics as Attacking, Skills, Defense, Mentality, GK Skills, etc.</li>
   <li>Player personal data like Nationality, Club, DateOfBirth, Wage, Salary, etc.</li>
 </ul>
+![image](https://user-images.githubusercontent.com/76468810/204091032-7d73596e-ee5c-44ed-81fe-b9efbd28da3f.png)
