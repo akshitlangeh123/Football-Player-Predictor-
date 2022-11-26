@@ -49,5 +49,14 @@ Thus the football player rating predictor is a consolidated metric that can be u
   <li>Player attributes with statistics as Attacking, Skills, Defense, Mentality, GK Skills, etc.</li>
   <li>Player personal data like Nationality, Club, DateOfBirth, Wage, Salary, etc.</li>
 </ul>
-![Screenshot (540)](https://user-images.githubusercontent.com/76468810/204091099-3fe81ca9-e0bc-4911-8151-b3c9ba536f42.png)
+<h3>Visualization: </h3>
+<img src="https://user-images.githubusercontent.com/76468810/204091161-33213268-67b8-48c8-9654-7e446c6e5fe1.png">
+<br>
+<h3>Result accuracy:</h3>
+<h5>Player Position</h5>
+<p>Since player's actual playing position is very subjective based on team's playing style, manager's tactics,etc. it is very difficult to predict their positions accurately. Image below shows the accuracy of the results using various models.</p>
 <img src="https://user-images.githubusercontent.com/76468810/204091099-3fe81ca9-e0bc-4911-8151-b3c9ba536f42.png">
+<br>
+<h5>Potential and Overall Rating</h5>
+<p>As we can see in the below image, that Football Player Predictor predicts overall and potential rating very accurately, with polynomial regression being the most accurate (97.3% accuracy).</p>
+<img src="https://user-images.githubusercontent.com/76468810/204091353-cbebeb7f-cd12-4bc9-9a0e-f6cf055f7afa.png">
