@@ -25,7 +25,7 @@ Thus the football player rating predictor is a consolidated metric that can be u
       <li>Decision Tree</li>
       <li>Random Forest</li>
     </ul>
-    <li>Interactive Dashboar(.pbix file) for visual analysis of Player's data and to generate scouting reports</li>
+    <li>Interactive Dashboard(.pbix file) for visual analysis of Player's data and to generate scouting reports</li>
 </ul>
 <h3>Steps:</h3>
 <ul>
